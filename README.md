@@ -5,7 +5,8 @@ async-final-project-black-jackson
 Causes of Death - Our World In Data (https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data)
 
 ## Why did I chose this dataset?
-I chose the Airlines Flights Data because I recently came back from a few trips where I had to take the plane. I was fascinated by the intricate systems pilots and other employees have to be familiar with at the airport. I am interested in learning more about the data they have to know about on a daily basis.
+
+I chose this data because I was interested in deaths around the world. I wanted to know what the causes of death were and in which country. I did use AI to create my graphs, but I tried learning all the code and its purpose.
 
 ## Progress
 - [x] Picked dataset
@@ -18,17 +19,18 @@ I chose the Airlines Flights Data because I recently came back from a few trips 
 - [x] Question 1: What is the total trend of deaths over time?
 <img width="1646" height="895" alt="image" src="https://github.com/user-attachments/assets/6d05b4d0-23a2-4a2a-a282-c93677dd85ef" />
 
-- Based on this graph, I can see that deaths over time have increased dramatically from 1990 to 2019. 
-
+- Based on this graph, I can see that deaths over time have increased dramatically from 1990 to 2019. I first wanted to see if deaths over time increased or decreased. It seems our deaths overall have only increased.
+ 
       
-
-
 - [x] Question 2: What are the top 5 causes of death in 2019
-  - 
+  - <img width="962" height="1285" alt="image" src="https://github.com/user-attachments/assets/1fac8746-8576-4c69-b4c4-5fee242dca56" />
+  
+- I then wanted to check what the most common deaths in 2019 were around the world. It turns out that many people die due to cardiovascular diseases. I then wanted to check what deaths were like in America due to cardiovascular diseases.
 
-- [x] Question 3: What cities are visited the most?
-  - Answer: Mumbai and Delhi
-  - Visualization: ![Q3 Visualization](/images/output3.png)
+- [x] Question 3: What were the cardiovascular disease deaths like in America
+  <img width="1187" height="642" alt="image" src="https://github.com/user-attachments/assets/6cba1cd0-4c18-4253-870b-8259ee96e167" />
+
+ - Base on the graph cardiovascular disease deaths sky rocketed to 2.1 million 
 
 - [x] Question 4: Does price vary with airlines?
   - Answer: Yes, Vistara and Air India are the more expensive airlines, which are full-service-carriers (FSCs). The other airlines are considered low-cost-carriers (LCCs).
