@@ -1,27 +1,30 @@
 ## Repository name
-async-final-project-purple-Eric
+async-final-project-black-jackson
 
 ## Dataset
-Airlines Flights Data (https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data/data)
+Causes of Death - Our World In Data (https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data)
 
 ## Why did I chose this dataset?
 I chose the Airlines Flights Data because I recently came back from a few trips where I had to take the plane. I was fascinated by the intricate systems pilots and other employees have to be familiar with at the airport. I am interested in learning more about the data they have to know about on a daily basis.
 
 ## Progress
 - [x] Picked dataset
-- [ ] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [X] Defined 10 questions
+- [X] Answered 10 questions using Pandas
+- [X] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [X] Prepared presentation slides to present at graduation
 
 ## Questions
-- [x] Question 1: What are the airlines in the dataset, accompanied by their frequencies?
-  - Answer: There are a total of 6 airlines in the dataset (Vistara - 127859, Air_India - 80892, Indigo - 43120, GO_FIRST - 23173, AirAsia - 16098, SpiceJet - 9011).
-  - Visualization: ![Q1 Visualization](/images/output1.png)
+- [x] Question 1: What is the total trend of deaths over time?
+<img width="1646" height="895" alt="image" src="https://github.com/user-attachments/assets/6d05b4d0-23a2-4a2a-a282-c93677dd85ef" />
 
-- [x] Question 2: What time in the day are there the least departures?
-  - Answer: Late Night
-  - Visualization: ![Q2 Visualization](/images/output2.png)
+- Based on this graph, I can see that deaths over time have increased dramatically from 1990 to 2019. 
+
+      
+
+
+- [x] Question 2: What are the top 5 causes of death in 2019
+  - 
 
 - [x] Question 3: What cities are visited the most?
   - Answer: Mumbai and Delhi
