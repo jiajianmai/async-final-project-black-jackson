@@ -5,7 +5,7 @@ async-final-project-black-jackson
 Causes of Death - Our World In Data (https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data)
 
 ## Why did I chose this dataset?
-***************************************************
+I chose this data because I was interested in deaths around the world. I wanted to know what the causes of death were and in which country. Eventually, it led me to focus on cardiovascular deaths. I did use AI to create my graphs, but I tried learning all the code and its purpose.
 ## Progress
 - [x] Picked dataset
 - [X] Defined 10 questions
